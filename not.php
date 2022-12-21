@@ -59,8 +59,6 @@
 "enabled":null,
 "platform":"ANDROID",
 "dateModified":"2022-12-20T13:06:41"}, 
-
-,
 {"bzzzId":1,
 "creatorId":178990,
 "userId":178990,
